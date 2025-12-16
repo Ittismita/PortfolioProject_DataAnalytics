@@ -1,4 +1,4 @@
-## EdTech User Engagement Analysis
+## EdTech Platform User Engagement Analysis
 
 Objective: To analyze whether the new additions to a platform (new courses, exams, and career tracks) have increased student engagement.
 
